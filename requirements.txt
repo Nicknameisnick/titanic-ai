@@ -1,0 +1,10 @@
+pandas
+requests
+plotly
+folium
+numpy
+streamlit
+scikit-learn
+streamlit_folium
+streamlit_option_menu
+geopandas
